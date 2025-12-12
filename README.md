@@ -15,14 +15,14 @@ I'm a tech enthusiast exploring AI, full-stack development, and real-world probl
 
 ### **Languages**
 - Python  
-- HTML, CSS, Bootstrap  
+- HTML, CSS 
 - JavaScript
 - Java
 - C
 
 ### **Frameworks / Tools**
 - Flask  
-- Django(Basics)
+- Django
 - Pandas  
 - NumPy
 - React
@@ -47,7 +47,7 @@ I'm a tech enthusiast exploring AI, full-stack development, and real-world probl
 
 ## 📫 Connect with Me
 **LinkedIn:**  
-[www.linkedin.com/in/dharshan-sai-kalavakunta-07a72b305](https://www.linkedin.com/in/dharshan-sai-kalavakunta/)
+[LinkedIn](https://www.linkedin.com/in/dharshan-sai-kalavakunta/)
 
 
 ---
