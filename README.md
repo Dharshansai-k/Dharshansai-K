@@ -1,16 +1,62 @@
-## Hi there 👋
+# 👋 Hey, I'm Dharshan Sai Kalavakunta
 
-<!--
-**Dharshansai-k/Dharshansai-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I'm a tech enthusiast exploring AI, full-stack development, and real-world problem-solving through hands-on projects and continuous learning.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Working On
+- Building a **mobile review website using Flask** (DB, login, pagination, filters)
+- Completing my **AI certification**
+- Learning **Django** from scratch
+- Exploring **AutoML**, and Deep Learning
+- Preparing for placement **aptitude**
+---
+
+## 💻 Tech Stack
+
+### **Languages**
+- Python  
+- HTML, CSS, Bootstrap  
+- JavaScript (learning)
+
+### **Frameworks / Tools**
+- Flask  
+- Django  
+- Pandas  
+- NumPy  
+
+
+---
+
+## 📘 Currently Learning
+- Django (Models → Views → Templates → Auth)
+- Problem solving & aptitude
+- Writing clean documentation
+
+---
+
+## 🏆 Projects & Experience
+- **Campus Safety System** – incident reporting, alerts, analytics   
+
+---
+
+
+---
+
+## 📫 Connect with Me
+**LinkedIn:**  
+[www.linkedin.com/in/dharshan-sai-kalavakunta-07a72b305](https://www.linkedin.com/in/dharshan-sai-kalavakunta/)
+**Gmail:**
+[www.Mail.com](dharshansai0708@gmail.com)
+
+---
+
+## ⭐ A Bit About Me
+- I learn by building things hands-on  
+- I love debugging and improving code  
+- Aiming to become a **full-stack + AI developer**
+
+---
+
+Thanks for visiting my profile! 🚀
