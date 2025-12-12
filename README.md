@@ -6,7 +6,7 @@ I'm a tech enthusiast exploring AI, full-stack development, and real-world probl
 ---
 
 ## 🚀 What I'm Working On
-- Learning **Django** from scratch
+- Learning **FastAPI** from scratch
 - Exploring **AutoML**, and Deep Learning
 
 ---
