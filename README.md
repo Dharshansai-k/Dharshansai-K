@@ -8,7 +8,7 @@ I enjoy learning by building projects, exploring new technologies, and continuou
 ## 🚀 About Me
 - 🎓 AI & Full-Stack Development Enthusiast
 - 🛠️ Building practical projects to solve real problems
-- 📚 Currently exploring FastAPI, AutoML, and Deep Learning
+- 📚 Currently exploring FastAPI, and NLP
 - 💻 Interested in Backend Development, AI Applications, and Web Technologies
 - 🌱 Always learning and experimenting with new tools
 
@@ -43,13 +43,13 @@ I enjoy learning by building projects, exploring new technologies, and continuou
 - VS Code
 - Jupyter Notebook
 - MySQL
-
+- Postman
+  
 ---
 
 ## 📘 Currently Learning
 - FastAPI
-- AI & Machine Learning
-- Deep Learning
+- NLP
 - REST APIs
 - Clean Code & Documentation Practices
 
@@ -79,21 +79,8 @@ A smart incident reporting and alert management system with analytics features d
 
 ---
 
-### 🔹 Mobile Review Website
-Built using Flask with:
-- User Authentication
-- Database Integration
-- Search & Filters
-- Pagination Features
 
 ---
-
-### 🔹 Academic Engagement Platform
-Hackathon project focused on:
-- Student-Alumni Connections
-- University Communication
-- Real-Time Interactions
-- Club & Event Engagement
 
 ---
 
@@ -110,7 +97,7 @@ Hackathon project focused on:
   :contentReference[oaicite:0]{index=0}
 
 - 💻 GitHub:  
-  Add your GitHub profile link here
+ https://github.com/Dharshansai-k/
 
 ---
 
